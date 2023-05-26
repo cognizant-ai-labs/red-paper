@@ -34,12 +34,15 @@ Note: the packages used in calculating Trust Score can be git cloned from https:
 
 If you use RED in your research, please cite it using the following BibTeX entry
 ```
-@misc{Qiu2022RED,
-      title={Detecting Misclassification Errors in Neural Networks with a Gaussian Process Model}, 
-      author={Xin Qiu and Risto Miikkulainen},
-      year={2022},
-      eprint={2010.02065},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
+@article{qiu:aaai22, 
+         title={Detecting Misclassification Errors in Neural Networks with a Gaussian Process Model}, 
+         volume={36}, 
+         url={https://ojs.aaai.org/index.php/AAAI/article/view/20773}, 
+         DOI={10.1609/aaai.v36i7.20773}, 
+         number={7}, 
+         journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
+         author={Qiu, Xin and Miikkulainen, Risto}, 
+         year={2022}, 
+         month={Jun.}, 
+         pages={8017-8027} }
 ```
