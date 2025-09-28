@@ -1,15 +1,15 @@
 License
-The following license governs the use of the RIO Software in academic and educational environments. Commercial use requires a commercial license from Cognizant Technology Solutions Corp, www.cognizant.com.
+The following license governs the use of the red-paper Software in academic and educational environments. Commercial use requires a commercial license from Cognizant Technology Solutions Corp, www.cognizant.com.
 
 ACADEMIC PUBLIC LICENSE
 Written by Andras Varga (license text is in public domain)
 
 Preamble
-This license contains the terms and conditions of using the RIO Software in noncommercial settings: at academic institutions for teaching and research use, and at non-profit research organizations. You will find that this license provides noncommercial users of RIO Server Software with rights that are similar to the well-known GNU General Public License, yet it retains the possibility for RIO Server Software authors to financially support the development by selling commercial licenses. In fact, if you intend to use RIO Server Software in a “for-profit” environment, where research is conducted to develop or enhance a product, is used in a commercial service offering, or when a commercial company uses RIO Server Software to participate in a research project (for example government-funded or EU-funded research projects), then you need to obtain a commercial license for RIO Server Software. In that case, please contact the Author to inquire about commercial licenses.
+This license contains the terms and conditions of using the red-paper Software in noncommercial settings: at academic institutions for teaching and research use, and at non-profit research organizations. You will find that this license provides noncommercial users of red-paper Server Software with rights that are similar to the well-known GNU General Public License, yet it retains the possibility for red-paper Server Software authors to financially support the development by selling commercial licenses. In fact, if you intend to use red-paper Server Software in a “for-profit” environment, where research is conducted to develop or enhance a product, is used in a commercial service offering, or when a commercial company uses red-paper Server Software to participate in a research project (for example government-funded or EU-funded research projects), then you need to obtain a commercial license for red-paper Server Software. In that case, please contact the Author to inquire about commercial licenses.
 
 What are the rights given to noncommercial users? Similarly to GPL, you have the right to use the software, to distribute copies, to receive source code, to change the software and distribute your modifications or the modified software. Also similarly to the GPL, if you distribute verbatim or modified copies of this software, they must be distributed under this license.
 
-By modeling the GPL, this license guarantees that you’re safe when using RIO Server Software in your work, for teaching or research. This license guarantees that RIO Server Software will remain available free of charge for nonprofit use. You can modify RIO Server Software to your purposes, and you can also share your modifications. Even in the unlikely case of the authors abandoning RIO Server Software entirely, this license permits anyone to continue developing it from the last release, and to create further releases under this license.
+By modeling the GPL, this license guarantees that you’re safe when using red-paper Server Software in your work, for teaching or research. This license guarantees that red-paper Server Software will remain available free of charge for nonprofit use. You can modify red-paper Server Software to your purposes, and you can also share your modifications. Even in the unlikely case of the authors abandoning red-paper Server Software entirely, this license permits anyone to continue developing it from the last release, and to create further releases under this license.
 
 We believe that the combination of noncommercial open-source and commercial licensing will be beneficial for the whole user community, because income from commercial licenses will enable faster development and a higher level of software quality, while further enjoying the informal, open communication and collaboration channels of open source development.
 
@@ -18,7 +18,7 @@ The precise terms and conditions for using, copying, distribution and modificati
 TERMS AND CONDITIONS FOR USE, COPYING, DISTRIBUTION AND MODIFICATION
 
 Definitions
-“Program” means a copy of the RIO Software, which is said to be distributed under this Academic Public License.
+“Program” means a copy of the red-paper Software, which is said to be distributed under this Academic Public License.
 
 “Work based on the Program” means either the Program or any derivative work under copyright law: that is to say, a work containing the Program or a portion of it, either verbatim or with modifications and/or translated into another language. (Hereinafter, translation is included without limitation in the term “modification”.)
 
